@@ -98,8 +98,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-
+- Website - [Add your name here](https://huddle-main-page.netlify.app/)
 
 ## Acknowledgments
 to myself for the little consistent progress so far
